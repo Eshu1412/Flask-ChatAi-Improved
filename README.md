@@ -183,4 +183,8 @@ The application comes with a modern, responsive chat interface built using:
 - File types supported: `.png`, `.jpg`, `.gif`, `.pdf`, `.txt`, `.md`
 
 To modify the design, update the `templates/index.html` and `static/css/style.css`.
+## 🖼️ Chat Interface Preview
+
+![AI Chatbot UI](static/screenshots/chatbot-ui.png)
+
 
