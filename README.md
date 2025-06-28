@@ -185,6 +185,6 @@ The application comes with a modern, responsive chat interface built using:
 To modify the design, update the `templates/index.html` and `static/css/style.css`.
 ## 🖼️ Chat Interface Preview
 
-![AI Chatbot UI](static/screenshots/chatbot-ui.png)
+![AI Chatbot UI](static/screenshot/chatUI.png)
 
 
